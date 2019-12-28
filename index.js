@@ -60,7 +60,6 @@ const pink = oink;
 // expect(pink).to.equal("pig")
 
 
-
 // Arrays
 
 // 4. Use destructuring to assign appropriate variables using the color names.
