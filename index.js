@@ -88,6 +88,9 @@ const indigo = indg;
 //   job: 'Host of The Muppet Show',
 //   partner: 'Miss Piggy'
 // };
-const { name, color, song, job, partner} = muppet
+const {name, color, song, job, partner} = muppet;
 
 // 8. Use destructuring to assign songs 2 and 4, and Kermit's job and partner
+const {song_2, song_4} = k_muppet.k_album.the_muppet_movie;
+const {k_color, k_job, k_partner } = k_muppet;
+
