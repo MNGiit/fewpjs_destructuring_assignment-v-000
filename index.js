@@ -30,7 +30,6 @@ const k_muppet = {
 // 1. Use destructuring to assign appropriate variables based on the sounds animals make.
 const [moo, neigh, baa, oink, cluck] = farmAnimals.split(' ');
 
-
 // expect(moo).to.equal("cow")
 // expect(neigh).to.equal("horse")
 // expect(baa).to.equal("sheep")
